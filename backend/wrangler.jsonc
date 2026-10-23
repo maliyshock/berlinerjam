@@ -8,12 +8,12 @@
     {
       "binding": "DB",
       "database_name": "berliner-jam-dev",
-      "database_id": "ВСТАВЬ_DATABASE_ID"
+      "database_id": "d2f27ee3-6f19-4c09-812b-0b6b661c0b6d"
     }
   ],
   "vars": {
-    "APP_ORIGIN": "",
-    "TELEGRAM_CLIENT_ID": "",
-    "TELEGRAM_REDIRECT_URI": ""
+    "APP_ORIGIN": "https://berliner-jam-dev.maliyshator.workers.dev",
+    "TELEGRAM_CLIENT_ID": "8801237506",
+    "TELEGRAM_REDIRECT_URI": "https://berliner-jam-dev.maliyshator.workers.dev/auth/telegram/callback"
   }
 }
