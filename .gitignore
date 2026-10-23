@@ -1,2 +1,6 @@
 .dev.vars*
 .env*
+.idea
+.wrangler/
+dist
+node_modules/

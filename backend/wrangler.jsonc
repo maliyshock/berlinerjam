@@ -1,0 +1,19 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "berliner-jam-dev",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-10-23",
+  "workers_dev": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "berliner-jam-dev",
+      "database_id": "ВСТАВЬ_DATABASE_ID"
+    }
+  ],
+  "vars": {
+    "APP_ORIGIN": "",
+    "TELEGRAM_CLIENT_ID": "",
+    "TELEGRAM_REDIRECT_URI": ""
+  }
+}
